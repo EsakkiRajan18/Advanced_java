@@ -1,10 +1,10 @@
 class emp{
 
     private int id = 3021;
-    private String name = "Abbasali";
-    private int salary = 99898990;
-    private String add = "Abc street";
-    private String phone = "8089786547";
+    private String name = "Ravi";
+    private int salary = 150000;
+    private String add = "XYZ street";
+    private String phone = "9876543210";
 
 
     public String getDetails() {
