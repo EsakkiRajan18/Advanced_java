@@ -33,7 +33,7 @@ class instagram extends software{
     void open_app() {
         while(true){
 
-            if(user_name.equals("Abbasali") && password.equals("2480")) {
+            if(user_name.equals("Ravi") && password.equals("2480")) {
             System.out.println("App is opened");
             break;
 
