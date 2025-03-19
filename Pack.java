@@ -1,7 +1,7 @@
 import mypackage.Demo;
 public class Pack {
 
-    String name = "abbasali";
+    String name = "ravi";
 
     public static void main(String[] args) {
 
